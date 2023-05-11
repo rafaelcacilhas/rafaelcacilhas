@@ -1,7 +1,14 @@
 <h1 align="center">Hi, I'm Rafael</h1>
-<h3 align="center">A full-stack developer from Brazil</h3>
+<h3 align="center">A full-stack developer from Brazil working at <a href="https://www.python.org](https://github.com/QuorumUS" target="_blank"> Quorum</a>, a Public Policies Company.</h3>
 
-- 🔭 Working at <a href="https://www.python.org](https://github.com/QuorumUS" target="_blank"> Quorum</a>, a Public Policies Company. I work mainly with Javascript and Next.js, although I have experience with scientific simulations using FORTRAN90 and Python / Django. In here you can find some of the things that I have been building.
+<p align="center"> 
+     <img  src="https://avatars.githubusercontent.com/u/6657795?s=200&v=4" 
+         alt="quorum" width="80" height="80"/> 
+</p>
+  
+<p></p>
+
+- 🔭  I work mainly with Javascript and Next.js, although I have experience with scientific simulations using FORTRAN90 and Python / Django. In here you can find some of the things that I have been building.
 
 - 📫 You can reach me at **rafaelcacilhas@gmail.com**
 
