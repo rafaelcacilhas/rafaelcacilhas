@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rafael</h1>
-<h3 align="center">A full-stack developer from Brazil working at <a href="https://www.python.org](https://github.com/QuorumUS" target="_blank"> Quorum</a>, a Public Policies Company.</h3>
+<h3 align="center">A full-stack developer from Brazil working at <a href="https://www.python.org](https://github.com/QuorumUS" target="_blank"> Quorum</a>, a Public Affairs Company.</h3>
 
 <p align="center"> 
      <img  src="https://avatars.githubusercontent.com/u/6657795?s=200&v=4" 
