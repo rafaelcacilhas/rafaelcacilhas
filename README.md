@@ -8,7 +8,7 @@
   
 <p></p>
 
-- 🔭  I work mainly with Javascript and Next.js, although I have experience with scientific simulations using FORTRAN90 and Python / Django. In here you can find some of the things that I have been building.
+- 🔭  I work mainly with Javascript and its frameworks, although I have experience with scientific simulations using FORTRAN and Python. In here you can find some of the things that I have been building.
 
 - 📫 You can reach me at **rafaelcacilhas@gmail.com**
 
